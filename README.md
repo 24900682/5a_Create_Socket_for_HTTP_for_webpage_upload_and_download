@@ -1,3 +1,5 @@
+# NAME: ASWIN L
+# REG NO: 212224230028
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
@@ -16,10 +18,10 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
-![image](https://github.com/user-attachments/assets/0dcc201c-6225-4bf1-89ea-e924b65db6b1)
+![Screenshot 2025-05-07 143206](https://github.com/user-attachments/assets/9648cd76-625a-4c1a-940b-e28a27046857)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/83358ee0-d0a4-4b9a-ad6b-3dd6701866a0)
+![Screenshot 2025-05-07 143225](https://github.com/user-attachments/assets/dfd666ae-8e4d-4680-b8ed-bf41587a05d3)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
